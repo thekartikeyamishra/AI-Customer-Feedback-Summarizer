@@ -107,8 +107,8 @@ AICustomerFeedbackSummarizer/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/AICustomerFeedbackSummarizer.git
-   cd AICustomerFeedbackSummarizer
+   git clone https://github.com/thekartikeyamishra/AI-Customer-Feedback-Summarizer.git
+   cd AI-Customer-Feedback-Summarizer 
    ```
 
 2. **Set Up Virtual Environment**
