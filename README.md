@@ -68,6 +68,8 @@ The **AI Customer Feedback Summarizer**:
 - **Export Capability**:
   Save summaries and sentiment reports to CSV or PDF.
 
+  * LinkedIn : https://www.linkedin.com/in/thekartikeyamishra/
+
 ---
 
 ## **Folder Structure (Advanced Version)**
